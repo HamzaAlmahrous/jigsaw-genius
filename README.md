@@ -18,11 +18,11 @@ This application utilizes advanced computer vision technology to solve puzzles a
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-repository/puzzle-solver-app.git
+   git clone https://github.com/HamzaAlmahrous/jigsaw-genius.git
    ```
 2. Navigate to the app directory:
    ```
-   cd puzzle-solver-app
+   cd jigsaw-genius
    ```
 3. Install dependencies:
    ```

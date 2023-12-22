@@ -1,0 +1,4 @@
+customtkinter
+tkinter
+numpy
+opencv-python
