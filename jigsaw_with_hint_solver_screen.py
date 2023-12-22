@@ -10,7 +10,7 @@ import customtkinter
 from tkinter import messagebox
 
 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-x_folder_path = os.path.join(parent_dir, 'cv_project\\solvers\\part_2_hint\\')
+x_folder_path = os.path.join(parent_dir, 'jigsaw-genius\\solvers\\part_2_hint\\')
 sys.path.append(x_folder_path)
 
 from part_2_hint import solve_jigsaw_with_hint

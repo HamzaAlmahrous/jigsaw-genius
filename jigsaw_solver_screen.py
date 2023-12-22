@@ -9,7 +9,7 @@ import os
 import customtkinter
 
 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-x_folder_path = os.path.join(parent_dir, 'cv_project\\solvers\\part_2\\')
+x_folder_path = os.path.join(parent_dir, 'jigsaw-genius\\solvers\\part_2\\')
 sys.path.append(x_folder_path)
 
 from main import solve_jigsaw
