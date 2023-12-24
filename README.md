@@ -1,3 +1,4 @@
+![cove](https://github.com/HamzaAlmahrous/jigsaw-genius/blob/main/assets/photo_2023-12-24_10-25-35.jpg)
 
 # Puzzle Solver App
 
